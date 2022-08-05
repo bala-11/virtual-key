@@ -1,0 +1,61 @@
+Êþº¾   4    Files/FileMain   java/lang/Object <init> ()V Code  	 java/lang/Error 
+”Unresolved compilation problems: 
+	The import java.util cannot be resolved
+	The import java.io cannot be resolved
+	Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
+	String cannot be resolved to a type
+	IOException cannot be resolved to a type
+	Scanner cannot be resolved to a type
+	Scanner cannot be resolved to a type
+	System cannot be resolved to a variable
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	Scanner cannot be resolved to a type
+	Scanner cannot be resolved to a type
+	System cannot be resolved to a variable
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+
+  
+   (Ljava/lang/String;)V LineNumberTable LocalVariableTable this LFiles/FileMain; main ([Ljava/lang/String;)V 
+Exceptions   
+IOException ÕUnresolved compilation problems: 
+	String cannot be resolved to a type
+	IOException cannot be resolved to a type
+	Scanner cannot be resolved to a type
+	Scanner cannot be resolved to a type
+	System cannot be resolved to a variable
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+	Scanner cannot be resolved to a type
+	Scanner cannot be resolved to a type
+	System cannot be resolved to a variable
+	System cannot be resolved
+	System cannot be resolved
+	System cannot be resolved
+ 
+SourceFile 
+FileMain.java   java/lang/String MissingTypes !                4     
+» Y
+· ¿                   
+     	              *     
+» Y· ¿                              
